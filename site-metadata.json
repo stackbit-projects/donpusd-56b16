@@ -50,7 +50,7 @@
             {
                 "label": "Twitter",
                 "url": "https://twitter.com/",
-                "style": "primary",
+                "style": "secondary",
                 "new_window": true
             },
             {
