@@ -6,7 +6,7 @@ sections:
       We strive to inspire anti-racist ideals in PUSD through diversified
       curriculum.
     actions: []
-    align: left
+    align: center
     image_position: left
     has_background: false
     background:
