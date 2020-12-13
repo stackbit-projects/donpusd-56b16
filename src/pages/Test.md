@@ -2,7 +2,9 @@
 title: lorem-ipsum
 sections:
   - title: Diversify Our Narrative Poway Unified
-    subtitle: lorem-ipsum
+    subtitle: >-
+      We strive to inspire anti-racist ideals in PUSD through diversified
+      curriculum.
     actions: []
     align: left
     image_position: left
