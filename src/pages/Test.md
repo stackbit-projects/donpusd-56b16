@@ -1,7 +1,7 @@
 ---
 title: lorem-ipsum
 sections:
-  - title: lorem-ipsum
+  - title: Diversify Our Narrative Poway Unified
     subtitle: lorem-ipsum
     actions: []
     align: left
