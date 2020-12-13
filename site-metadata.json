@@ -1,7 +1,7 @@
 {
     "description": "An ultra customizable generic theme for Stackbit",
     "header": {
-        "title": "Starter",
+        "title": "DON PUSD",
         "has_nav": true,
         "nav_links": [
             {
@@ -25,9 +25,10 @@
                 "style": "link"
             },
             {
-                "label": "Contact Us",
+                "label": "Join Us",
                 "url": "/contact",
-                "style": "primary"
+                "style": "primary",
+                "new_window": true
             }
         ]
     },
