@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Diversify Our Narrative
-    subtitle: Poway Unified School Distrcit
+    subtitle: Poway Unified School District
     actions:
       - label: Learn More
         url: /features
